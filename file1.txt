@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am very good. everyone liks me. It is very interseting how people learn kubernetes. it isa operation
+=======
+i am very good. everyone liks me. It is very interseting how people learn kubernetes. I am very knowledgeable in maths
+>>>>>>> dev
