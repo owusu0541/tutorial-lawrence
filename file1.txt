@@ -7,3 +7,4 @@ i am very good. everyone liks me. It is very interseting how people learn kubern
 i am very good. everyone liks me. It is very interseting how people learn kubernetes. I am very knowledgeable in maths. I am going to school
 i am good at soccer
 >>>>>>> dev
+I am also adding new things to it
